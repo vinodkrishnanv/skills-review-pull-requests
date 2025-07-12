@@ -14,14 +14,16 @@ _Collaborate and work together on GitHub._
 </header>
 
 <!--
-  <<< Author notes: Step 6 >>>
+  Author notes: Step 6 >update-game
+  
   Start this step by acknowledging the previous step.
+
   Define terms and link to docs.github.com.
 -->
 
 ## Step 6: Merge your pull request
 
-_Almost there! :heart:_
+_Almost there! :heart:_ true
 
 You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
 
